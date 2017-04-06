@@ -1,0 +1,12 @@
+phpcpd - PHP Copy/Past Detector
+
+composer
+phpunit
+phpcpd
+phpdcd
+phpcbf
+phing
+phpcs
+pdepend
+phpmd
+behat

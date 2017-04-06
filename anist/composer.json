@@ -1,0 +1,18 @@
+{
+    "name": "daniloterra/anist",
+    "description": "Anist test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danilo Terra",
+            "email": "danilo_terra@live.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Anist\\": "src/Anist/"
+        }
+    }
+}
